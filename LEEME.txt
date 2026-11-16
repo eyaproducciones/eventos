@@ -1,0 +1,16 @@
+EYA Producciones - Página web (GitHub Pages)
+
+Contenido:
+  index.html           -> la página
+  assets/eya-logo.webp -> logo animado con fondo transparente
+  assets/eya-logo.png  -> logo fijo (menú y pie de página)
+  assets/favicon.png   -> ícono de la pestaña
+  assets/og-eya.jpg    -> imagen que aparece al compartir el enlace
+
+Publicar en GitHub:
+  1. Crea un repositorio público llamado "eya".
+  2. "Add file" > "Upload files": arrastra index.html y la carpeta assets (sin cambiar nombres).
+  3. Settings > Pages > Branch: main / (root) > Save.
+  4. En 1-2 minutos la página queda en https://TU-USUARIO.github.io/eya/
+  5. En index.html cambia TU-USUARIO por tu usuario (línea de og:image) para que
+     WhatsApp muestre la imagen al compartir el enlace.
